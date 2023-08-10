@@ -7,7 +7,7 @@ My professional portfolio displaying some of my sample projects.
 *Use MCForecastTools library to create a Monte Carlo simulation for users portfolio.  
 *Plot and display Monte Carlo simulated forecast using plotly and seaborn libraries. 
 
-![](https://github.com/EOndarza/EO_Portfolio/blob/main/images/Fin_Plan_photos/Crypto_Pie.png)
+![](Crypto_Pie.png)
 ![](https://github.com/EOndarza/EO_Portfolio/blob/main/images/Fin_Plan_photos/10_Y.png)
 
 # Project_2:
