@@ -10,13 +10,20 @@ My professional portfolio displaying some of my sample projects.
 ![](Crypto_Pie.png)
 ![](https://github.com/EOndarza/EO_Portfolio/blob/main/images/Fin_Plan_photos/10_Y.png)
 
-# Project_2:
+# [Project_2 : Fraudulant_transaction_detection](https://github.com/EOndarza/Financial_Planner/tree/main)
+*Defined a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
+*Created a database schema on PostgreSQL and populated database from raw data on CSV file.
+*Analysis of data to identify possible fraudulent transactions trends data, and develop a final report.
 
+# [Project_3 : Time_Series_Mercado_Libre_analysis]
+*Defined a database model to store the credit card transactions data and create a new PostgreSQL database using your model.
+*Created a database schema on PostgreSQL and populated database from raw data on CSV file.
+*Analysis of data to identify possible fraudulent transactions trends data, and develop a final report.
 
-# Project_3:
-
-
-# Project_4:
+# [Project_4 : Solidity_SmartContract_JointSavings]
+*Created a Joint Savings Account Contract in Solidity, using 2 seperate account addresses that can deposit and withdrawl ETH.
+*Compiled and successfully deployed Smart Contract in the JavaScript Virtual Machine. 
+*Interact with Your Deployed Smart Contract on Gorli network(transfer funds, withdrawl, deposit, check balance etc)
 
 
 
