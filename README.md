@@ -10,10 +10,12 @@ My professional portfolio displaying some of my sample projects.
 ![](Crypto_Pie.png)
 ![](https://github.com/EOndarza/EO_Portfolio/blob/main/images/Fin_Plan_photos/10_Y.png)
 
-# [Project_2 : Fraudulant_transaction_detection](https://github.com/EOndarza/Financial_Planner/tree/main)
+# [Project_2 : Fraudulant_transaction_detection]((https://github.com/EOndarza/Fraudulant_transaction_detection/tree/main)
 *Defined a database model to store the credit card transactions data and create a new PostgreSQL database using your model.  
 *Created a database schema on PostgreSQL and populated database from raw data on CSV file.  
-*Analysis of data to identify possible fraudulent transactions trends data, and develop a final report.  
+*Analysis of data to identify possible fraudulent transactions trends data, and develop a final report.
+
+![]([https://github.com/EOndarza/EO_Portfolio/blob/main/images/Fin_Plan_photos/10_Y.png](https://github.com/EOndarza/EO_Portfolio/blob/main/images/Screenshot%202023-08-26%20at%208.52.03%20PM.png))
 
 # [Project_3 : Time_Series_Mercado_Libre_analysis]
 *Find unusual patterns in hourly Google Search traffic.  
