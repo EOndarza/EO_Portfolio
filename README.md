@@ -16,15 +16,16 @@ My professional portfolio displaying some of my sample projects.
 *Analysis of data to identify possible fraudulent transactions trends data, and develop a final report.
 
 ![](https://github.com/EOndarza/EO_Portfolio/blob/main/images/Screenshot%202023-08-26%20at%208.52.03%20PM.png)
+![](https://github.com/EOndarza/EO_Portfolio/blob/main/images/Join-Query.png)
 
-# [Project_3 : Time_Series_Mercado_Libre_analysis]
+# Project_3 : Time_Series_Mercado_Libre_analysis
 *Find unusual patterns in hourly Google Search traffic.  
 *Mine the search traffic data for seasonality.  
 *Relate the search traffic to stock price patterns.  
 *Create a time series model by using Prophet.  
 *Forecast the revenue by using time series models.  
 
-# [Project_4 : Solidity_SmartContract_JointSavings]
+# Project_4 : Solidity_SmartContract_JointSavings
 *Created a Joint Savings Account Contract in Solidity, using 2 seperate account addresses that can deposit and withdrawl ETH.  
 *Compiled and successfully deployed Smart Contract in the JavaScript Virtual Machine.   
 *Interact with Your Deployed Smart Contract on Gorli network(transfer funds, withdrawl, deposit, check balance etc.).  
