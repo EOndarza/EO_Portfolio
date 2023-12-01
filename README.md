@@ -19,10 +19,10 @@ My professional portfolio displaying some of my sample projects.
 ![](https://github.com/EOndarza/EO_Portfolio/blob/main/images/Join-Query.png)
 
 # [Project_3 : Bank CAP Model](https://github.com/EOndarza/CAP-Project/tree/main)
-*Feed training data through a multiple linear regression model to find variables with highest coefficients for dependent variable "Exiting Customers."
-*Tune Model to achieve highest prediction accuracy using adjusted R-squared, decide on regressors.
-*Run test data through binary logit model, run forecast analysis to generate predictions using Gretl software.
-*Run results through CAP curve model to optimize probability to ensure bank first targets its customers that are predicted to be potential risk first.
+*Feed training data through a multiple linear regression model to find variables with highest coefficients for dependent variable "Exiting Customers." 
+*Tune Model to achieve highest prediction accuracy using adjusted R-squared, decide on regressors. 
+*Run test data through binary logit model, run forecast analysis to generate predictions using Gretl software. 
+*Run results through CAP curve model to optimize probability to ensure bank first targets its customers that are predicted to be potential risk first. 
 
 ![](https://github.com/EOndarza/CAP-Project/blob/main/Screenshot%202023-12-01%20at%2012.11.36%20AM.png)
 ![](https://github.com/EOndarza/CAP-Project/blob/main/Screenshot%202023-12-01%20at%2012.19.34%20AM.png)
