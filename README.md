@@ -18,12 +18,14 @@ My professional portfolio displaying some of my sample projects.
 ![](https://github.com/EOndarza/EO_Portfolio/blob/main/images/Screenshot%202023-08-26%20at%208.52.03%20PM.png)
 ![](https://github.com/EOndarza/EO_Portfolio/blob/main/images/Join-Query.png)
 
-# Project_3 : Time_Series_Mercado_Libre_analysis
-*Find unusual patterns in hourly Google Search traffic.  
-*Mine the search traffic data for seasonality.  
-*Relate the search traffic to stock price patterns.  
-*Create a time series model by using Prophet.  
-*Forecast the revenue by using time series models.  
+# [Project_3 : Bank CAP Model](https://github.com/EOndarza/CAP-Project/tree/main)
+*Feed training data through a multiple linear regression model to find variables with highest coefficients for dependent variable "Exiting Customers."
+*Tune Model to achieve highest prediction accuracy using adjusted R-squared, decide on regressors.
+*Run test data through binary logit model, run forecast analysis to generate predictions. (Gretl software)
+*Run results through CAP curve model to optimize probability to ensure bank first targets its customers that are predicted to be potential risk first.  
+
+![]([https://github.com/EOndarza/EO_Portfolio/blob/main/images/Screenshot%202023-08-26%20at%208.52.03%20PM.png](https://github.com/EOndarza/CAP-Project/blob/main/Screenshot%202023-12-01%20at%2012.11.36%20AM.png))
+![]([https://github.com/EOndarza/EO_Portfolio/blob/main/images/Join-Query.png](https://github.com/EOndarza/CAP-Project/blob/main/Screenshot%202023-12-01%20at%2012.19.34%20AM.png))
 
 # Project_4 : Solidity_SmartContract_JointSavings
 *Created a Joint Savings Account Contract in Solidity, using 2 seperate account addresses that can deposit and withdrawl ETH.  
